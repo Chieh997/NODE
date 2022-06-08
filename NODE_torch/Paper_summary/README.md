@@ -6,4 +6,4 @@
 2. M. Stefano , P. Michael , P. Jinkyoo , Y. Atsushi , and A. Hajime , “Dissecting Neural ODEs,” *Advances in Neural Information Processing Systems*, vol. 33, 2020.‌
    [[HackMD]](https://hackmd.io/@Chieh997/rJqo7jKaK)
 3. X. Liu, T. Xiao, S. Si, Q. Cao, S. Kumar, and C.-J. Hsieh, “Neural SDE: Stabilizing Neural ODE Networks with Stochastic Noise,” *arXiv:1906.02355 [cs, stat]*, Jun. 2019.
-   [[HackMD]](https://hackmd.io/@Chieh997/rJqo7jKaK)
+   [[HackMD]](https://hackmd.io/@Chieh997/SJrX-pcTF)
