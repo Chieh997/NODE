@@ -2,9 +2,9 @@
 
 + *Neural Ordinary Differential Equations*[1]
    + [[HackMD]](https://hackmd.io/@Chieh997/BygEi-iaY) [[Presentation]](https://hackmd.io/@Chieh997/2017NODEs)
-+ *Dissecting Neural ODEs*[2]\n
++ *Dissecting Neural ODEs*[2]
    + [[HackMD]](https://hackmd.io/@Chieh997/rJqo7jKaK) [[Presentation]](https://hackmd.io/@Chieh997/2020DissNODEs)
-+ *Neural SDE: Stabilizing Neural ODE Networks with Stochastic Noise*[3]\n
++ *Neural SDE: Stabilizing Neural ODE Networks with Stochastic Noise*[3]
    + [[HackMD]](https://hackmd.io/@Chieh997/SJrX-pcTF)
 
 
