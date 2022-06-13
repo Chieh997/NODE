@@ -12,9 +12,9 @@
 |           | NODE | ANODE | IL-NODE |
 | ----      | ---  | ---   | ----    |
 | Test. Acc.| 96.88| 98.94 | 99.25|
-| NFE       | 153  | 162   | 86.5 |
+| NFE*      | 153  | 162   | 86.5 |
 | Param.[K] | 16.9 | 20.8  | 21.1 |
-
+* Reported the average NFE of each epoch.
 
 ---
 ## References
