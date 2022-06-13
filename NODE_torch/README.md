@@ -9,7 +9,11 @@
    + [[HackMD]](https://hackmd.io/@Chieh997/SJrX-pcTF)
 
 ## Experiment: Image Classification
-
+|           | NODE | ANODE | IL-NODE |
+| ----      | ---  | ---   | ----    |
+| Test. Acc.| 96.88| 98.94 | 99.25|
+| NFE       | 153  | 162   | 86.5 |
+| Param.[K] | 16.9 | 20.8  | 21.1 |
 
 
 ---
