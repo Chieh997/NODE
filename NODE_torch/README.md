@@ -17,7 +17,7 @@ These notes were posted on HackMD in the beginning. It's more recommended to vie
    + [[Summery]](https://github.com/Chieh997/Demo/blob/main/NODE_torch/Paper_summary/2019.NSDEs.md)[[HackMD]](https://hackmd.io/@Chieh997/SJrX-pcTF)
 
 ## Experiment: Image Classification
-This experiment (Stefano, 2020) is to analysis different augmentation strategies.
+This experiment (Stefano, 2020) is to analysis different augmentation strategies for NODEs.
 + Setting difference:\
  Due to equipment limitations, the training epoch is set to be smaller (20 to 12).
 
