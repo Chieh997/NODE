@@ -9,7 +9,7 @@ This project contains some research on NDEs and reproduce one of the experiment 
    The vanilla mothod for NODEs. Consider the parameters in the differential equations as constant.
    + [[HackMD]](https://hackmd.io/@Chieh997/BygEi-iaY) [[Presentation]](https://hackmd.io/@Chieh997/2017NODEs)
 + *Dissecting Neural ODEs* [2]\
-   Establish a gereral framework for NODEs. Parameters in the differential equations are regared as functions of time. Also consider different augmentated strategy and  how controlled over input networks. Develop several variant model based on these concepts.
+   Establish a gereral framework for NODEs. Parameters in the differential equations are regared as functions of time. Also consider different augmentated strategy and  how controlled over input networks. Develop several variant models based on these concepts.
    + [[HackMD]](https://hackmd.io/@Chieh997/rJqo7jKaK) [[Presentation]](https://hackmd.io/@Chieh997/2020DissNODEs)
 + *Neural SDE: Stabilizing Neural ODE Networks with Stochastic Noise* [3]\
    Apply some of the most usable regularization mechanisms in discrete networks and develop a new framwork called NSDEs.
