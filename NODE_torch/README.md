@@ -34,6 +34,7 @@ This experiment (Stefano, 2020) is to analysis different augmentation strategies
 | Avg. NFE  |           |
 | Param.[K] | 16.9K     |
 
+
 | CIFAR     |NODE-torch |
 |----       |----       |
 | Test. Acc.|           |
