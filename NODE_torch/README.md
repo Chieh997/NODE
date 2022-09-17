@@ -20,12 +20,25 @@ These notes were posted on HackMD in the beginning. It's more recommended to vie
 This experiment (Stefano, 2020) is to analysis different augmentation strategies for NODEs.
 + Setting difference:\
  Due to equipment limitations, the training epoch is set to be smaller (20 to 12).
-
-|           | NODE | ANODE | IL-NODE |
++ epoch = 12
+| MNIST     | NODE | ANODE | IL-NODE |
 | ----      | ---  | ---   | ----    |
 | Test. Acc.| 96.88| 98.94 | 99.25|
 | Avg. NFE  | 153  | 162   | 86.5 |
 | Param.[K] | 16.9 | 20.8  | 21.1 |
+
++ epoch = 20
+| MNIST     |NODE-torch |
+|----       |----       |
+| Test. Acc.|           |
+| Avg. NFE  |           |
+| Param.[K] | 16.9K     |
+
+| CIFAR     |NODE-torch |
+|----       |----       |
+| Test. Acc.|           |
+| Avg. NFE  |           |
+| Param.[K] | 37.1K     |  
 
  + Comparations and Probelems\
  The testing accuracies are similar to the original results. We can still see the performance improvements for augmented stratergies. \
