@@ -20,7 +20,9 @@ These notes were posted on HackMD in the beginning. It's more recommended to vie
 This experiment (Stefano, 2020) is to analysis different augmentation strategies for NODEs.
 + Setting difference:\
  Due to equipment limitations, the training epoch is set to be smaller (20 to 12).
+ 
 + epoch = 12
+
 | MNIST     | NODE | ANODE | IL-NODE |
 | ----      | ---  | ---   | ----    |
 | Test. Acc.| 96.88| 98.94 | 99.25|
@@ -28,6 +30,7 @@ This experiment (Stefano, 2020) is to analysis different augmentation strategies
 | Param.[K] | 16.9 | 20.8  | 21.1 |
 
 + epoch = 20
+
 | MNIST     |NODE-torch |
 |----       |----       |
 | Test. Acc.|           |
