@@ -31,18 +31,18 @@ This experiment (Stefano, 2020) is to analysis different augmentation strategies
 
 + epoch = 20
 
-| MNIST     |NODE-torch |
-|----       |----       |
-| Test. Acc.|           |
-| Avg. NFE  |           |
-| Param.[K] | 16.9K     |
+| MNIST     |NODE-torch |IL-NODE-torch |
+|----       |----       |----          |
+| Test. Acc.| 98.24     ||
+| Avg. NFE  | 119.9     ||
+| Param.[K] | 16.9K     ||
 
 
-| CIFAR     |NODE-torch |
-|----       |----       |
-| Test. Acc.|           |
-| Avg. NFE  |           |
-| Param.[K] | 37.1K     |  
+| CIFAR     |NODE-torch |IL-NODE-torch |
+|----       |----       |----          |
+| Test. Acc.| 60.65     ||
+| Avg. NFE  | 182.6     ||
+| Param.[K] | 37.1K     ||  
 
  + Comparations and Probelems\
  The testing accuracies are similar to the original results. We can still see the performance improvements for augmented stratergies. \
