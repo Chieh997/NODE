@@ -13,6 +13,6 @@ FGD
 
 | CIFAR     |NODE-torch |IL-NODE-torch |
 |----       |----       |----          |
-| Test. Acc.|   60.65   ||
-| Avg. NFE  |   182.6   ||
-| Param.[K] |   37.1K   ||  
+| Test. Acc.|   60.65   |   73.22   |
+| Avg. NFE  |   182.6   |   124.4|
+| Param.[K] |   37.1K   |   |    
