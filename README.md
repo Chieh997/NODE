@@ -2,7 +2,7 @@
 Demo repository
 
 FGD
-+ Benchmark: epoch=20 NODE & ILNODE
++ epoch=20 NODE & ILNODE
 
 | MNIST     |NODE-torch |IL-NODE-torch |
 |----       |----       |----          |
