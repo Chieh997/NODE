@@ -6,8 +6,8 @@ FGD
 
 | MNIST     |NODE-torch |IL-NODE-torch |
 |----       |----       |----          |
-| Test. Acc.|   98.24   |   |
-| Avg. NFE  |   119.9   |   |
+| Test. Acc.|   98.24   |   99.23   |
+| Avg. NFE  |   119.9   |   146     |
 | Param.[K] |   16.9K   |   |
 
 
