@@ -5,7 +5,7 @@ FGD
 + epoch=20 NODE & ILNODE
 
 | MNIST     |NODE-torch |IL-NODE-torch |NODE-torch  |
-|----       |----       |----          |----
+|----       |:-:       |:-:         |:-:
 | Test. Acc.|   98.24   |   99.23      |    96.03   |
 | Avg. NFE  |   119.9   |   104        |    
 | Param.[K] |   16.9K   |   21.1K      |
