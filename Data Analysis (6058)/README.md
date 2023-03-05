@@ -2,5 +2,5 @@
 
 Repository for NCHU course Data Analysis (6058), here contains:
 + Homework
-+ Incalss assignment
++ In-calss assignment
 + Final project
