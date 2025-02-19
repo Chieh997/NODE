@@ -5,9 +5,9 @@ FGD
 
 | MNIST     |NODE-torch |IL-NODE-torch |NODE-jax |IL-NODE-jax|
 |----       |:-:    |:-:   |:-:   |:-:
-| Test. Acc.|  98.24  |  99.23  |  97.21 | 99.26
-| Avg. NFE  |  119.9  |  104    |    
-| Param.[K] |  16.9K  |  21.1K  |
+| Test. Acc.|  98.24  |  99.23  |  98.41 | 99.26
+| Avg. NFE  |  119.9  |  104    |        |    
+| Param.[K] |  16.9K  |  21.1K  |  16.6K |
 
 
 | CIFAR     |NODE-torch |IL-NODE-torch |
